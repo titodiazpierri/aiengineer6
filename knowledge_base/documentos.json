@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "informe-q1-2026",
+    "titulo": "Informe trimestral oficial Q1 2026 - Nubeteca",
+    "tipo": "informe oficial",
+    "fecha": "2026-04-18",
+    "contenido": "Nubeteca, plataforma SaaS de gestión de inventario para pymes, cerró el primer trimestre de 2026 (Q1 2026) con ingresos de USD 1.840.000. La cantidad de clientes activos al cierre del trimestre fue de 312 empresas. El ingreso recurrente mensual promedio por cliente fue de USD 1.966. La tasa de cancelación mensual (churn) se ubicó en 2,1 %. El equipo comercial incorporó 41 clientes nuevos durante el trimestre."
+  },
+  {
+    "doc_id": "informe-q2-2026",
+    "titulo": "Informe trimestral oficial Q2 2026 - Nubeteca",
+    "tipo": "informe oficial",
+    "fecha": "2026-07-20",
+    "contenido": "Nubeteca cerró el segundo trimestre de 2026 (Q2 2026) con ingresos de USD 2.116.000, cifra auditada que reemplaza a cualquier estimación preliminar publicada antes de esta fecha. Los clientes activos al cierre del trimestre fueron 341 empresas. La tasa de cancelación mensual (churn) bajó a 1,7 %. Durante el trimestre se lanzó el módulo de reportes automáticos y se migró la infraestructura a una nueva región de la nube, lo que generó dos incidentes de disponibilidad en mayo."
+  },
+  {
+    "doc_id": "nota-prensa-q2-preliminar",
+    "titulo": "Nota de prensa: adelanto de resultados del segundo trimestre",
+    "tipo": "nota de prensa preliminar",
+    "fecha": "2026-07-02",
+    "contenido": "En una entrevista radial, el director comercial de Nubeteca adelantó que los ingresos del segundo trimestre de 2026 rondarían los USD 2,3 millones, según estimaciones internas todavía no auditadas. Aclaró que las cifras definitivas se publicarían en el informe trimestral oficial."
+  },
+  {
+    "doc_id": "politica-precios-2026",
+    "titulo": "Política de precios 2026",
+    "tipo": "documento interno",
+    "fecha": "2026-01-10",
+    "contenido": "Nubeteca ofrece tres planes: Básico a USD 890 por mes, Profesional a USD 1.950 por mes y Empresa a USD 4.200 por mes. Desde enero de 2026 los planes anuales tienen un 15 % de descuento. Los precios no se modificaron durante el primer semestre de 2026."
+  },
+  {
+    "doc_id": "resenas-q2-2026",
+    "titulo": "Reseñas de clientes Q2 2026 - Nubeteca",
+    "tipo": "reseñas de clientes",
+    "fecha": "2026-07-05",
+    "contenido": "Reseñas publicadas por clientes de Nubeteca entre abril y junio de 2026.",
+    "resenas": [
+      "El nuevo módulo de reportes automáticos es excelente, nos ahorra horas cada semana.",
+      "La plataforma es muy intuitiva y el soporte responde rápido. La recomiendo.",
+      "En mayo tuvimos dos caídas del servicio y perdimos ventas. Fue un problema serio.",
+      "Buena herramienta, fácil de usar, aunque el plan Empresa me parece caro.",
+      "Desde la migración la carga de inventario está lenta y a veces da error.",
+      "Excelente atención del equipo de soporte, resolvieron todo en el día.",
+      "Los reportes son útiles y la integración con nuestro sistema contable funciona bien.",
+      "No es mala, pero la aplicación móvil es confusa y le faltan funciones."
+    ]
+  }
+]

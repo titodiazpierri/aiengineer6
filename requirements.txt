@@ -1,0 +1,7 @@
+langgraph>=0.4
+langchain-core>=1.0
+langchain-openai>=0.3
+langchain-anthropic>=0.3
+pydantic>=2.7
+python-dotenv>=1.0
+ipykernel>=6.29
